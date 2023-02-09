@@ -5,3 +5,4 @@
 * [ВНЖ](vnzh/README.md)
   * [Подготовка документов](vnzh/podgotovka-dokumentov.md)
 * [Получение шенгена](poluchenie-shengena.md)
+* [ПМЖ и гражданство Сербии](pmzh-i-grazhdanstvo-serbii.md)
